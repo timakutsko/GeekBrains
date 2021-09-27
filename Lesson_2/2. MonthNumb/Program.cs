@@ -6,7 +6,7 @@ namespace _2._MonthNumb
     {
         static void Main(string[] args)
         {
-            bool falseInput = true;
+            bool falseInput;
             do
             {
                 int numb = UserInput();
