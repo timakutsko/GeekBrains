@@ -11,6 +11,7 @@ namespace _1._Temperature
             int minTemp = Convert.ToInt32(userInput.Split(",")[0]);
             int maxTemp = Convert.ToInt32(userInput.Split(",")[1]);
             Console.Write($"Среднесуточная температура составляет: {(float)(minTemp + maxTemp) / 2}");
+            
         }
     }
 }
