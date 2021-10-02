@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "daigMatr", "daigMatr\daigMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phBook", "phBook\phBook.csproj", "{A4D6073E-48B4-41CC-BD97-2EE489E525A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "Reverse\Reverse.csproj", "{A802D308-E0FE-496F-806A-52C75416E4F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A4D6073E-48B4-41CC-BD97-2EE489E525A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4D6073E-48B4-41CC-BD97-2EE489E525A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4D6073E-48B4-41CC-BD97-2EE489E525A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A802D308-E0FE-496F-806A-52C75416E4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A802D308-E0FE-496F-806A-52C75416E4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A802D308-E0FE-496F-806A-52C75416E4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A802D308-E0FE-496F-806A-52C75416E4F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
