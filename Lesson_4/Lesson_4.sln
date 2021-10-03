@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMethod", "MyMethod\MyMethod.csproj", "{53B252A2-2FDE-4AF6-BE2A-0E144D1FADEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbSum", "NumbSum\NumbSum.csproj", "{148B5DA0-2AFB-42EB-8D05-26780F7F280D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{53B252A2-2FDE-4AF6-BE2A-0E144D1FADEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53B252A2-2FDE-4AF6-BE2A-0E144D1FADEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53B252A2-2FDE-4AF6-BE2A-0E144D1FADEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148B5DA0-2AFB-42EB-8D05-26780F7F280D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148B5DA0-2AFB-42EB-8D05-26780F7F280D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148B5DA0-2AFB-42EB-8D05-26780F7F280D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148B5DA0-2AFB-42EB-8D05-26780F7F280D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
