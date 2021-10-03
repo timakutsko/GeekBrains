@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMethod", "MyMethod\MyMeth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbSum", "NumbSum\NumbSum.csproj", "{148B5DA0-2AFB-42EB-8D05-26780F7F280D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seasons", "Seasons\Seasons.csproj", "{1B4DDD50-381E-45C4-BC87-5A6C8878F726}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{148B5DA0-2AFB-42EB-8D05-26780F7F280D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{148B5DA0-2AFB-42EB-8D05-26780F7F280D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{148B5DA0-2AFB-42EB-8D05-26780F7F280D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4DDD50-381E-45C4-BC87-5A6C8878F726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4DDD50-381E-45C4-BC87-5A6C8878F726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4DDD50-381E-45C4-BC87-5A6C8878F726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4DDD50-381E-45C4-BC87-5A6C8878F726}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
