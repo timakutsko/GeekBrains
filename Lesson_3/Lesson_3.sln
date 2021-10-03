@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "daigMatr", "daigMatr\daigMatr.csproj", "{CC74B845-F03B-4705-8CB3-CE18283F441A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "daigMatr", "daigMatr\daigMatr.csproj", "{CC74B845-F03B-4705-8CB3-CE18283F441A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phBook", "phBook\phBook.csproj", "{A4D6073E-48B4-41CC-BD97-2EE489E525A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "phBook", "phBook\phBook.csproj", "{A4D6073E-48B4-41CC-BD97-2EE489E525A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "Reverse\Reverse.csproj", "{A802D308-E0FE-496F-806A-52C75416E4F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse", "Reverse\Reverse.csproj", "{A802D308-E0FE-496F-806A-52C75416E4F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaFight", "SeaFight\SeaFight.csproj", "{9CC2D659-61BB-42A9-8A8B-C6B8BBAF7229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeaFight", "SeaFight\SeaFight.csproj", "{9CC2D659-61BB-42A9-8A8B-C6B8BBAF7229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{EC8A1D29-5667-40E8-A538-1DF5999F558F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9CC2D659-61BB-42A9-8A8B-C6B8BBAF7229}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CC2D659-61BB-42A9-8A8B-C6B8BBAF7229}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CC2D659-61BB-42A9-8A8B-C6B8BBAF7229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8A1D29-5667-40E8-A538-1DF5999F558F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8A1D29-5667-40E8-A538-1DF5999F558F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8A1D29-5667-40E8-A538-1DF5999F558F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8A1D29-5667-40E8-A538-1DF5999F558F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
