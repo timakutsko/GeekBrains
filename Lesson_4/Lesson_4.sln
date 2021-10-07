@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seasons", "Seasons\Seasons.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{C106178E-D651-4ADB-A266-7078B5B11E0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Median", "Median\Median.csproj", "{3DB80EB1-B2DD-4D15-A2E1-94D3DD7E16EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C106178E-D651-4ADB-A266-7078B5B11E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C106178E-D651-4ADB-A266-7078B5B11E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C106178E-D651-4ADB-A266-7078B5B11E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB80EB1-B2DD-4D15-A2E1-94D3DD7E16EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB80EB1-B2DD-4D15-A2E1-94D3DD7E16EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB80EB1-B2DD-4D15-A2E1-94D3DD7E16EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB80EB1-B2DD-4D15-A2E1-94D3DD7E16EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
