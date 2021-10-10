@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saver", "Saver\Saver.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartupTime", "StartupTime\StartupTime.csproj", "{08C261F2-2E45-49FC-9EAE-2DD0862C493D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary", "Binary\Binary.csproj", "{B31B1451-700A-40F3-A607-50A070EF7401}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{08C261F2-2E45-49FC-9EAE-2DD0862C493D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08C261F2-2E45-49FC-9EAE-2DD0862C493D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08C261F2-2E45-49FC-9EAE-2DD0862C493D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31B1451-700A-40F3-A607-50A070EF7401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31B1451-700A-40F3-A607-50A070EF7401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31B1451-700A-40F3-A607-50A070EF7401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31B1451-700A-40F3-A607-50A070EF7401}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
