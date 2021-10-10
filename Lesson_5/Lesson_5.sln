@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartupTime", "StartupTime\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary", "Binary\Binary.csproj", "{B31B1451-700A-40F3-A607-50A070EF7401}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dirs", "Dirs\Dirs.csproj", "{8E647EDE-09EC-4EBF-BC73-568B25E26E9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B31B1451-700A-40F3-A607-50A070EF7401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B31B1451-700A-40F3-A607-50A070EF7401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B31B1451-700A-40F3-A607-50A070EF7401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E647EDE-09EC-4EBF-BC73-568B25E26E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E647EDE-09EC-4EBF-BC73-568B25E26E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E647EDE-09EC-4EBF-BC73-568B25E26E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E647EDE-09EC-4EBF-BC73-568B25E26E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
