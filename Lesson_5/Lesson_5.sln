@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary", "Binary\Binary.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dirs", "Dirs\Dirs.csproj", "{8E647EDE-09EC-4EBF-BC73-568B25E26E9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoList.csproj", "{B0A3E446-5416-409E-A1AE-6FDC2ED7C888}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8E647EDE-09EC-4EBF-BC73-568B25E26E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E647EDE-09EC-4EBF-BC73-568B25E26E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E647EDE-09EC-4EBF-BC73-568B25E26E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A3E446-5416-409E-A1AE-6FDC2ED7C888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A3E446-5416-409E-A1AE-6FDC2ED7C888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A3E446-5416-409E-A1AE-6FDC2ED7C888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A3E446-5416-409E-A1AE-6FDC2ED7C888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
