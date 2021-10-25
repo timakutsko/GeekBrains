@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Tsimafei Kutsko</Authors>
+    <ApplicationIcon>search.ico</ApplicationIcon>
+    <Win32Resource />
+    <AssemblyVersion>99.0.0.1</AssemblyVersion>
+    <FileVersion>99.0.0.1</FileVersion>
+    <PackageReleaseNotes>Решение к задаче №8</PackageReleaseNotes>
+    <PackageIcon></PackageIcon>
+    <PackageIconUrl />
+    <Version>99.66.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bin\**" />
+    <EmbeddedResource Remove="bin\**" />
+    <None Remove="bin\**" />
+    <Resource Include="C:\Users\timak\Downloads\search.ico">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Configuration.ConfigurationManager">
+      <HintPath>C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.10\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
